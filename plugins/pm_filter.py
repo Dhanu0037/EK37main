@@ -437,9 +437,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚡ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴏsᴇ ᴛʜɪs ʙᴜᴛᴛᴏɴs ⚡', callback_data='start')
         ], [
             InlineKeyboardButton('👑 ᴏɴᴡᴇʀ', callback_data='about'),
-            InlineKeyboardButton('👥 ɢʀᴏᴜᴘ', url='https://t.me/+jDYSx5O_geQ1ZThl')
+            InlineKeyboardButton('👥 ɢʀᴏᴜᴘ', url='https://t.me/askmovie37')
         ], [
-            InlineKeyboardButton('🎬 ᴄʜᴀɴɴᴇʟ', url='https://t.me/MovieHubOtt'),
+            InlineKeyboardButton('🎬 ᴄʜᴀɴɴᴇʟ', url='https://t.me/AskMovieTeam'),
+            InlineKeyboardButton('▶️ YT Channel', url='https://youtube.com/c/editingking37'),
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ', callback_data='close_data')
         ], [
             InlineKeyboardButton('📈 sᴛᴀᴛᴜs', callback_data='stats')
